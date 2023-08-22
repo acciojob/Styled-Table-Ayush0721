@@ -1,1 +1,8 @@
 /* your code */
+thead{
+	background-color:blue;
+	color:white;
+}
+tbody{
+	background-color:gray;
+}
